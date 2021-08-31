@@ -129,4 +129,6 @@
             </div>
         </div>
     </body>
+    <!-- public内を見に行く -->
+    <script src="{{ asset('/js/app.js') }}"></script>
 </html>
